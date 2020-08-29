@@ -1,6 +1,6 @@
 {
   "name": "react-focus-trap-light",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a super light focus trap with react",
   "main": "index.tsx",
   "scripts": {
